@@ -1,9 +1,0 @@
-git add 文件名  
-git commit -m ""
-git status 查看暂存区
-git log  查看更改状态
-git log  --pretty=oneline  带id的查看更改状态
-git reset --hard HEAD^ 回到前一状态
-git reset --hard 5a0f 回到id是5a0f的状态
-git reflog 记录了你每次更改的状态
-
